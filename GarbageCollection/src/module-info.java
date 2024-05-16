@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pakhi
+ *
+ */
+module GarbageCollection {
+}
